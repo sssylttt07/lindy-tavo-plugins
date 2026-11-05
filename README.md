@@ -35,3 +35,6 @@ A collection of plugins for [Tavo](https://www.tavoai.dev/), an AI role-play fro
 
 See [CHANGELOG.md](CHANGELOG.md) for what changed between builds.
 
+## License
+
+Released under the MIT License.
