@@ -11,8 +11,8 @@ A collection of plugins for [Tavo](https://www.tavoai.dev/), an AI role-play fro
 | `Lindy V1.1.6-gre.tpg` | **Lindy** | 1.1.6 | Regex manager for status panels, value bars, and collapsible sections. Saves tokens vs. raw CSS output. |
 | `linmask-v0.2.8.tpg` | **LinMask** | 0.2.8 | Mask manager: sorting, notes, Tavo import/export. |
 | `LinChar-0.1.9.tpg` | **LinChar** | 0.1.9 | API-connected AI card writer: turns rough settings into structured character cards and world books via built-in templates. |
-| `Lin世界档案 V1.1.8.tpg` | **Lin World Archive** | 1.1.8 | Auto-captures new side characters and concepts into the world book — an active memory & cognition-update mechanism. |
-| `Lin记忆管家 V1.2.2.tpg` | **Lin Memory Manager** | 1.2.2 | Chronicle-based long-term memory: day-level keyword entries, consolidated into resident entries every ten days. |
+| `Lin世界档案 V1.2.0.tpg` | **Lin World Archive** | 1.2.0 | Auto-captures new side characters and concepts into the world book — an active memory & cognition-update mechanism. |
+| `Lin记忆管家 V1.5.0.tpg` | **Lin Memory Manager** | 1.5.0 | Chronicle-based long-term memory: day-level keyword entries, consolidated into resident entries every ten days. |
 
 ## Install
 
